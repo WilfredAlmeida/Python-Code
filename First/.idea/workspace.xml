@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60b6916e-7d0a-457e-a58c-939fe9404eab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="First" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V9oOWpsByHfIYjN9TPHIIU0TRN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Ping All">
+    <configuration name="Capstone " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Study/Sem 6/Capstone/Exe/Final/Final" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/Study/Sem 6/Capstone/Exe/Final/Final/Capstone .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Challenge 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyPackage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPackage/Challenge 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ping All" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ping All.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="form" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Study/Sem 6/Capstone" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/Study/Sem 6/Capstone/form.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="First" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ping All" />
+        <item itemvalue="Python.Capstone " />
+        <item itemvalue="Python.form" />
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.Challenge 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b6916e-7d0a-457e-a58c-939fe9404eab" name="Default Changelist" comment="" />
+      <created>1576674639391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576674639391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="43" key="FileChooserDialogImpl" timestamp="1584373588068">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="329" y="43" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1584373588068" />
+    <state width="1070" height="176" key="GridCell.Tab.0.bottom" timestamp="1592052012306">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1070" height="176" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1592052012306" />
+    <state width="1070" height="176" key="GridCell.Tab.0.center" timestamp="1592052012305">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1070" height="176" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1592052012305" />
+    <state width="1070" height="176" key="GridCell.Tab.0.left" timestamp="1592052012305">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1070" height="176" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1592052012305" />
+    <state width="1070" height="176" key="GridCell.Tab.0.right" timestamp="1592052012305">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1070" height="176" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1592052012305" />
+    <state x="50" y="0" key="Registry" timestamp="1592046759757">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="50" y="0" key="Registry/0.0.1097.577@0.0.1097.577" timestamp="1592046759757" />
+    <state x="58" y="0" key="SettingsEditor" timestamp="1589368491444">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="58" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1589368491444" />
+    <state x="218" y="36" width="705" height="389" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584373653915">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="218" y="36" width="705" height="389" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1097.577@0.0.1097.577" timestamp="1584373653915" />
+    <state x="127" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1592046721681">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="127" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1592046721681" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Capstone/form1.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Capstone/form1.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

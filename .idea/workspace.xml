@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54fcb8a5-63d1-4ac5-b342-5aa75ba261ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gl2icWsEBcXPjLi1G28fMzAY9f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.try">
+    <configuration name="Operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/Operators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/Palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ping All" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/Ping All.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Variable_Scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/Variable_Scope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.Variable_Scope" />
+        <item itemvalue="Python.Ping All" />
+        <item itemvalue="Python.Palindrome" />
+        <item itemvalue="Python.Operators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54fcb8a5-63d1-4ac5-b342-5aa75ba261ae" name="Default Changelist" comment="" />
+      <created>1598674986531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598674986531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="268" y="71" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598680674405">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="268" y="71" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1097.577@0.0.1097.577" timestamp="1598680674405" />
+    <state x="279" y="0" key="FileChooserDialogImpl" timestamp="1601965424588">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="279" y="0" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1601965424588" />
+    <state width="1072" height="174" key="GridCell.Tab.0.bottom" timestamp="1602063382487">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1072" height="174" key="GridCell.Tab.0.bottom/0.0.1097.577@0.0.1097.577" timestamp="1602063382487" />
+    <state width="1072" height="174" key="GridCell.Tab.0.center" timestamp="1602063382487">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1072" height="174" key="GridCell.Tab.0.center/0.0.1097.577@0.0.1097.577" timestamp="1602063382487" />
+    <state width="1072" height="174" key="GridCell.Tab.0.left" timestamp="1602063382487">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1072" height="174" key="GridCell.Tab.0.left/0.0.1097.577@0.0.1097.577" timestamp="1602063382487" />
+    <state width="1072" height="174" key="GridCell.Tab.0.right" timestamp="1602063382487">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="1072" height="174" key="GridCell.Tab.0.right/0.0.1097.577@0.0.1097.577" timestamp="1602063382487" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1598680358448">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1097.577@0.0.1097.577" timestamp="1598680358448" />
+    <state x="203" y="0" width="677" height="575" key="StructurePopup" timestamp="1601985344409">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="203" y="0" width="677" height="575" key="StructurePopup/0.0.1097.577@0.0.1097.577" timestamp="1601985344409" />
+    <state x="251" y="116" key="com.intellij.ide.util.TipDialog" timestamp="1598674993623">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="251" y="116" key="com.intellij.ide.util.TipDialog/0.0.1097.577@0.0.1097.577" timestamp="1598674993623" />
+    <state width="750" height="530" key="javadoc.popup" timestamp="1601996396303">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/0.0.1097.577@0.0.1097.577" timestamp="1601996396303" />
+    <state x="127" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1601965625748">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="127" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1097.577@0.0.1097.577" timestamp="1601965625748" />
+  </component>
+</project>
